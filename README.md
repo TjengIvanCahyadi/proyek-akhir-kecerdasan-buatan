@@ -10,7 +10,7 @@
  
 Beras merupakan bulir gabah yang sudah dikupas kulitnya dan bagian ini sudah dapat dimasak serta di konsumsi yang melalui proses penggilingan dan penyosohan. Beras menjadi salah satu produk biji-bijian yang paling banyak diproduksi di seluruh dunia. Beras memiliki banyak varietas genetik. Varietas ini dipisahkan satu sama lain berdasarkan beberapa fiturnya seperti tekstur, bentuk, dan warna.
  
- Dataset berisi 75000 gambar beras yang terbagi kedalam 5 label secara merata (1 label, 15000 gambar).
+ Dataset berisi 75000 gambar beras yang terbagi kedalam 5 varietas secara merata (1 varietas, 15000 gambar).
  
 Tahapan Pengerjaan:
 1. Mengecek dataset secara manual (hapus data gambar yang tidak sesuai)
