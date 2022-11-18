@@ -14,7 +14,7 @@ Beras merupakan bulir gabah yang sudah dikupas kulitnya dan bagian ini sudah dap
  
 Tahapan Pengerjaan:
 1. Mengecek dataset secara manual (hapus data gambar yang tidak sesuai)
-2. Menampilkan sampel gambar
+2. Exploratory Data Analysis (EDA)
 3. Standardisasi gambar
 4. Melakukan pembagian dataset menjadi train, validation, dan test
 5. Membuat model
