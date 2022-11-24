@@ -16,7 +16,7 @@ Tahapan Pengerjaan:
 1. Mengecek dataset secara manual (hapus data gambar yang tidak sesuai)
 2. Exploratory Data Analysis (EDA)
 3. Visualisasi data
-4. normalisasi data gambar
+4. Normalisasi data gambar
 5. Melakukan pembagian dataset menjadi train, validation, dan test
 6. Membuat model
 7. Melatih model
